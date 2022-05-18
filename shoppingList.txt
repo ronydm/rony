@@ -1,0 +1,6 @@
+shoppingList.txt
+
+apple
+orange
+mango
+jackfruits
